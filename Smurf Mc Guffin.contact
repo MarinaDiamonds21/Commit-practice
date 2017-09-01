@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2017-09-01T05:38:09Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="46f32951-6d01-4fe2-bc18-4aec64eaede7"><c:Value>21b601c1-985f-48bc-a2f8-7476cdfe3986</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="fd7e9579-b51f-4933-bf41-b3fd5fc4968a"><c:Title>Smack dat</c:Title><c:FormattedName>Smurf Mc Guffin</c:FormattedName><c:FamilyName>Guffin</c:FamilyName><c:MiddleName>Mc</c:MiddleName><c:GivenName>Smurf</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="6e46ff3b-4667-4cd9-855d-9f635628b410"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
